@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![](https://s3.amazonaws.com/avr-images/profile1.jpg)
+<img src="https://s3.amazonaws.com/avr-images/profile1.jpg" alt="Drawing" style="width: 200px;"/>
 
 I am a researcher interested broadly in Computer Networking, Network
 Security, and everything in between. Currently, I work on Networking and
